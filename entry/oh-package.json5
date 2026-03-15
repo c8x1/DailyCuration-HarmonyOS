@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "每日精选应用入口模块",
+  "main": "",
+  "author": "Cognitive Chaos",
+  "license": "MIT",
+  "dependencies": {}
+}
