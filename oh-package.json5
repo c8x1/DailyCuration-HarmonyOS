@@ -1,0 +1,9 @@
+{
+  "name": "dailycuration-minimal",
+  "version": "1.0.0",
+  "description": "Minimal DailyCuration App for HarmonyOS",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
