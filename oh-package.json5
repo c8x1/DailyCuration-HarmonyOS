@@ -1,0 +1,9 @@
+{
+  "name": "DailyCuration",
+  "version": "1.0.0",
+  "description": "每日精选文章阅读应用",
+  "main": "",
+  "author": "Cognitive Chaos",
+  "license": "MIT",
+  "dependencies": {}
+}
